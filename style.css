@@ -1,0 +1,26 @@
+body{ background: url("d.jpg") no-repeat right;; 
+    background-size: cover;
+    background-position: center center;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+    min-height: 100vh;
+    font-family:"poppins", sans-series;
+    margin:0;
+}
+h1{font-size: 4rem;
+margin-top: 5rem;
+font-weight: normal;
+} 
+   
+
+.c-c{ display: flex; text-align: center; flex-wrap: wrap; justify-content: center;}
+.big-text{font-size: 6rem;
+    font-weight: bold;
+line-height: 1;
+margin:0 2rem;}
+
+.countdown-el{text-align: center;}
+
+.countdown-el span{font-size: 1.5rem;}
